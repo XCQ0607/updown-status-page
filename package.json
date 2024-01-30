@@ -9,7 +9,6 @@
     "start": "npm run dev",
     "build": "node build/build.js",
     "lint": "eslint --ext js,vue src/**/*.vue"
-      "build": "vue-cli-service build"
   },
   "dependencies": {
     "s-ago": "^2.1.0",
